@@ -1,0 +1,233 @@
+Weight Loss(%) Calculation
+Day 0Day2Day4Day6
+
+
+
+Evaporative Cooler
+( T1)
+
+
+Top layer
+(L1)S1S2S3Avg.Wt. (T1L1)
+Middle Layer(L2)S1S2S3Avg.Wt.(T1L2)Bottom Layer(L3)S1S2S3Avg.Wt.(T1L3)Avg. WeightT1S0=T1S2=T1S4=T1S6=Avg. Wt. Loss(%)
+Day 0Day2Day4Day6
+
+
+
+Open Bamboo(T2)
+S1S2S3S4S5S6S7S8S9Avg. Wt.T2S0=T2S2=T2S4=T2S6=Avg. Wt. Loss(%)
+
+
+
+
+
+
+
+
+Day 0Day2Day4Day6
+
+
+
+Refrigerator(T3)
+S1S2S3S4S5S6S7S8S9Avg.  Wt.T3S0=T3S2=T3S4=T3S6=Avg.Wt. Loss
+
+
+
+Color Measurement:
+
+
+
+
+
+
+
+
+
+
+Evaporative Cooler(T1)Day0Day2Day4Day6
+
+Top layer
+(L1)L*a*b*L*a*b*L*a*b*L*a*b*S1S2S3Avg.(L1)?E
+Middle Layer(L2)S1S2S3Avg.(L2)?E
+Bottom Layer(L3)S1S2S3Avg.(L3)?EAvg. ?ET1S0=T1S2=T1S4=T1S6=
+
+
+
+
+
+
+
+Open Bamboo(T2)Day0Day2Day4Day6L*a*b*L*a*b*L*a*b*L*a*b*S1S2S3S4S5S6S7S8S9Avg.Avg. ?ET1S0=T1S2=T1S4=T1S6=
+
+
+
+
+
+
+
+
+
+
+
+Refrigerator
+      (T3)Day0Day2Day4Day6L*a*b*L*a*b*L*a*b*L*a*b*S1S2S3S4S5S6S7S8S9Avg.Avg. ?ET3S0=T3S2=T3S4=T3S6=
+
+
+
+
+
+
+Firmness Test(N)
+
+Day 0Day2Day4Day6
+
+
+
+Evaporative Cooler
+( T1)
+
+
+Top layer
+(L1)S1S2S3Avg.Force(T1L1)
+Middle Layer(L2)S1S2S3Avg.Force(T1L2)Bottom Layer(L3)S1S2S3Avg.Force(T1L3)Avg.ForceT1S0=T1S2=T1S4=T1S6=
+
+Day 0Day2Day4Day6
+
+
+
+Open Bamboo(T2)
+S1S2S3S4S5S6S7S8S9Avg. ForceT2S0=T2S2=T2S4=T2S6=
+
+
+
+
+
+
+
+Day 0Day2Day4Day6
+
+
+
+Refrigerator(T3)
+S1S2S3S4S5S6S7S8S9Avg. ForceT3S0=T3S2=T3S4=T3S6=
+
+
+Total Soluble Solid(?Brix):
+
+              Day0              Day2             Day4           Day6
+
+
+
+Evaporative Cooler
+( T1)
+Brix
+?(%)Ref.
+IndexTemBrix
+?(%)Ref.
+IndexTemBrix
+?(%)Ref. IndexTemBrix
+?(%)Ref. IndexTemS1S2S3Avg.Brix
+(T1L1)S1S2S3Avg.Brix
+ (T1L2)S1S2S3Avg.Brix
+ (T1L3)Brix valueT1S0=T1S2=T1S4=T1S6=
+
+
+
+Day 0Day2Day4Day6
+
+
+
+Open Bamboo(T2)
+Brix
+?(%)Ref.
+IndexTemBrix
+?(%)Ref.
+IndexTemBrix
+?(%)Ref.
+IndexTemBrix
+?(%)Ref.
+IndexTemS1S2S3S4S5S6S7S8S9Avg.Brix valueT2S0=T2S2=T2S4=T2S6=
+
+
+Day 0Day2Day4Day6
+
+
+
+Refrigerator(T3)
+Brix
+?(%)Ref.
+IndexTemBrix
+?(%)Ref.
+IndexTemBrix
+?(%)Ref.
+IndexTemBrix
+?(%)Ref.
+IndexTemS1S2S3S4S5S6S7S8S9Avg.Brix valueT3S0=T3S2=T3S4=T3S6=
+
+
+
+
+
+
+
+pH Measurement:
+Day 0Day2Day4Day6
+
+
+
+Evaporative Cooler
+( T1)
+
+
+Top layer
+(L1)pHTemppHTemppHTemppHTempS1S2S3pH(T1L1)
+Middle Layer(L2)S1S2S3pH (T1L2)Bottom Layer(L3)S1S2S3pH (T1L3)Avg.pH valueT1S0=T1S2=T1S4=T1S6=
+Day 0Day2Day4Day6
+
+
+
+Open Bamboo(T2)
+pHTemppHTemppHTemppHTempS1S2S3S4S5S6S7S8S9Avg.pH valueT1S0=T1S2=T1S4=T1S6=
+Day 0Day2Day4Day6
+
+
+
+Refrigerator(T3)
+S1pHTemppHTemppHTemppHTempS2S3S4S5S6S7S8S9Avg.pH valueT1S0=T1S2=T1S4=T1S6=
+
+
+Tritable Acidity:
+Day 0Day2Day4Day6
+
+
+
+Evaporative Cooler
+( T1)
+
+
+Top layer
+(L1)Wt. sample(ml)vol. NaOHWt. sample(ml)vol. NaOHWt. sample(ml)vol. NaOHWt. sample(ml)vol. NaOHS1S2S3
+Middle Layer(L2)S1S2S3Bottom Layer(L3)S1S2S3Avg.T1S0=T1S0=T1S2=T1S4=T1S6=
+Day 0Day2Day4Day6
+
+
+
+Open Bamboo(T2)
+Wt. sample(ml)vol. NaOHWt. sample(ml)vol. NaOHWt. sample(ml)vol. NaOHWt. sample(ml)vol. NaOHS1S2S3S4S5S6S7S8S9Avg.T1S0=T1S0=T1S2=T1S4=T1S6=
+
+
+
+
+Day 0Day2Day4Day6
+
+
+
+Refrigerator(T3)
+Wt. sample(ml)vol. NaOHWt. sample(ml)vol. NaOHWt. sample(ml)vol. NaOHWt. sample(ml)vol. NaOHS1S2S3S4S5S6S7S8S9Avg.T1S0=T1S0=T1S2=T1S4=T1S6=
+
+
+
+
+
+ 
+
